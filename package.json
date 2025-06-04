@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Yarvis405",
+    "url": "https://www.devartus.site"
+  },
+  "name": "petite-vue-architect",
+  "short_name": "petite-parch",
+  "description": "Node.JS parch module",
+  "keywords": [
+    "petite-vue",
+    "template",
+    "parch"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
+  "homepage": "http://nodejs.org/docs/latest/api/petite-arch.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Yarvis405/petite-arch.git"
+  },
+  "main": "./parch.js",
+  "dependencies": {}
+}
