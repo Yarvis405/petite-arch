@@ -112,9 +112,9 @@ parse is the built-in input filter for petite-arch/parch <-- name was taken
 - in case of you having a backend, we recommend  the use of filters pipes or guards as well
 
 ## sources
-- [Chat GPT](https://chatgpt.com/chat)
+- [Chat GPT](https://chatgpt.com/share/6840dc56cb14-800a-bcd5-02aca3edb8be)
 - [Node Template](https://github.com/jinder)
-- [Readme](https://github.com/vuejs/petite-vue)
+- [Readme Template](https://github.com/vuejs/petite-vue)
 
 ## License
 
