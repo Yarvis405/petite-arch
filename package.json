@@ -13,7 +13,6 @@
   ],
   "license": "MIT",
   "version": "1.0.0",
-  "homepage": "http://nodejs.org/docs/latest/api/petite-arch.html",
   "repository": {
     "type": "git",
     "url": "git://github.com/Yarvis405/petite-arch.git"
