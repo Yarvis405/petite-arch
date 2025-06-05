@@ -3,11 +3,12 @@
     "name": "Yarvis405",
     "url": "https://www.devartus.site"
   },
-  "name": "petite-vue-architect",
+  "name": "petite-arch",
   "short_name": "petite-parch",
   "description": "Node.JS parch module",
   "keywords": [
     "petite-vue",
+    "petite-arch",
     "template",
     "parch"
   ],

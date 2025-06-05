@@ -78,8 +78,7 @@ parse(string)
 //script, eval
 
 //export
-export { parch, parse }
-
-//require
-parch.exports = parch;
-parse.exports = parse;
+module.exports = {
+  parch,
+  parse
+}
