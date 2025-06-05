@@ -4,8 +4,7 @@
     "url": "https://www.devartus.site"
   },
   "name": "petite-arch",
-  "short_name": "petite-parch",
-  "description": "Node.JS parch module",
+  "description": "Node.JS petite-arch module",
   "keywords": [
     "petite-vue",
     "petite-arch",
@@ -13,7 +12,7 @@
     "parch"
   ],
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "http://nodejs.org/docs/latest/api/petite-arch.html",
   "repository": {
     "type": "git",
